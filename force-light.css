@@ -1,0 +1,14 @@
+:root {
+  color-scheme: light !important;
+  --bg: #EEF0F1 !important;
+  --surface: #FFFFFF !important;
+  --surface-2: #E4E7E6 !important;
+  --text: #15181A !important;
+  --text-muted: #52585C !important;
+  --accent: #1F4B44 !important;
+  --accent-text: #EEF3F1 !important;
+  --accent-2: #A47C3F !important;
+  --border: rgba(21,24,26,0.12) !important;
+  --border-strong: rgba(21,24,26,0.22) !important;
+  --shadow: 0 1px 2px rgba(21,24,26,0.04), 0 12px 32px -16px rgba(21,24,26,0.18) !important;
+}
